@@ -1,0 +1,16 @@
+{
+  "name": "ReactIsomorphicDemo2",
+  "version": "0.0.0",
+  "description": "Isomorphic ReactJS With Express Demo Part1",
+  "main": "HelloComponent.js",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "react": "^0.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sandeep",
+  "license": "ISC"
+}
